@@ -9,12 +9,16 @@ Detailed Reporting: Provides comprehensive logs and alerts for any discrepancies
 Purpose
 ASAGuardian aims to provide network administrators and security professionals with a reliable tool to preemptively detect and respond to potential compromises in firewall integrity, thereby maintaining the security posture of their network environments.
 
-**Prerequisites**
-Python 3.x
-SSH access to the Cisco ASA firewalls that will be monitored
-Optional: SSH private key if using key-based authentication
+**Prerequisites:**
 
-**Installation**
++ Python 3.x
+
++ SSH access to the Cisco ASA firewalls that will be monitored
+
++ Optional: SSH private key if using key-based authentication
+
+**Installation:**
+
 To use ASAGuardian, follow these steps to get it up and running on your system:
 
 1. Clone the Repository:
@@ -28,9 +32,11 @@ To use ASAGuardian, follow these steps to get it up and running on your system:
 3. Configuration:
    Edit the config.py file (you should create this based on your environment settings) to set up the firewall IP addresses, authentication details, and other configurations like the path to your SSH key (if using key-based authentication).
 
-**Usage**
+**Usage:**
+
 To run ASAGuardian, execute the following command:
 python asa_integrity_checker.py
 
-**Contributing**
+**Contributing:**
+
 Contributions to ASAGuardian are welcome! Please feel free to fork the repository, make your changes, and submit a pull request.
