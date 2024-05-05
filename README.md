@@ -12,7 +12,7 @@ ASAGuardian is a specialized tool designed to ensure the security and integrity 
 
 + Detailed Reporting: Provides comprehensive logs and alerts for any discrepancies found during the integrity checks, aiding in quick response and remediation.
 
-**Purpose**
+**Purpose:**
 
 ASAGuardian aims to provide network administrators and security professionals with a reliable tool to preemptively detect and respond to potential compromises in firewall integrity, thereby maintaining the security posture of their network environments.
 
