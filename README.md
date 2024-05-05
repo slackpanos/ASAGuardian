@@ -1,3 +1,5 @@
+![alt text](https://github.com/slackpanos/ASAGuardian/blob/main/ASAGuardian.jpeg?raw=true)
+
 ASAGuardian is a specialized tool designed to ensure the security and integrity of Cisco ASA firewalls. This Python-based application remotely connects to Cisco ASA devices via SSH to perform automated integrity checks. It verifies that the operating system and configuration settings have not been tampered with by comparing the current md5 checksums of these components against known good values.
 
 **Key Features:**
